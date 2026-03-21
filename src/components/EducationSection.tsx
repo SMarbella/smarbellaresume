@@ -15,6 +15,12 @@ const education = [
     date: "December 2022",
     detail: "Minor in Information Science & eSociety · GPA 3.72 — Magna Cum Laude",
   },
+  {
+    degree: "General Education",
+    school: "Pima Community College",
+    date: "Fall 2016 – Fall 2021",
+    detail: "GPA 3.75",
+  },
 ];
 
 const EducationSection = () => (
