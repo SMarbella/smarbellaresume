@@ -4,12 +4,6 @@ import { GraduationCap } from "lucide-react";
 
 const education = [
   {
-    degree: "PhD in Information",
-    school: "University of Arizona",
-    date: "Fall 2026 – May 2031 (Tentative)",
-    detail: "Upcoming doctoral studies",
-  },
-  {
     degree: "M.S. in Data Science",
     school: "University of Arizona",
     date: "May 2025",
