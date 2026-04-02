@@ -7,7 +7,9 @@ const experiences = [
     title: "Research Data Support Specialist II",
     company: "University of Arizona — Community Environment & Policy Department",
     date: "March 2026 – Present",
-    bullets: [],
+    bullets: [
+      "Builds a centralized database system to support analytical queries that evaluate the performance, productivity, and impact of the environmental Graduate Research Assistant (GRA) fellowship program.",
+    ],
   },
   {
     title: "Volunteer Researcher",
